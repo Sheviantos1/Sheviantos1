@@ -19,12 +19,15 @@ I'm an experienced Technical Support Specialist actively transitioning into the 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
 
 
 ## 🔥 GitHub Stats & Activity
@@ -43,10 +46,10 @@ I'm an experienced Technical Support Specialist actively transitioning into the 
 
 | Project Title | Description |
 |---------------|-------------|
-| 🌐 [DevOps Tooling Website Solution](https://github.com/Sheviantos1/Devops-project/Project10) | Built a production-ready DevOps tooling website using Nginx, Apache, and Git integration, hosted on multiple Linux servers. Demonstrates real-world service orchestration and monitoring setup. |
-| 🔧 [Ansible Configuration Management](https://github.com/Sheviantos1/Devops-project/Project11) | Automated server setup and configuration across multiple nodes using Ansible playbooks and inventory files. Showcases idempotent provisioning and reusable roles. |
-| ☁️ [WordPress with LVM Storage Architecture](https://github.com/Sheviantos1/Devops-project/Project9)) | Deployed a 3-tier WordPress stack on AWS with dynamic storage provisioning using LVM. Integrated Apache2, MySQL, and storage monitoring to simulate enterprise deployment. |
-| 🌐 [AWS Networking Implementation (VPC Project)](https://github.com/Sheviantos1/Devops-project/Project14) | Designed and deployed a fully customized AWS VPC with public/private subnets, NAT Gateway, Internet Gateway, custom route tables, and security groups. A foundational cloud networking project. |
+| 🌐 [DevOps Tooling Website Solution](https://github.com/Sheviantos1/Devops-Project/tree/main/PROJECT%2010) | Built a production-ready DevOps tooling website using Nginx, Apache, and Git integration, hosted on multiple Linux servers. Demonstrates real-world service orchestration and monitoring setup. |
+| 🔧 [Ansible Configuration Management](https://github.com/Sheviantos1/Devops-Project/tree/main/PROJECT%2011) | Automated server setup and configuration across multiple nodes using Ansible playbooks and inventory files. Showcases idempotent provisioning and reusable roles. |
+| ☁️ [WordPress with LVM Storage Architecture](https://github.com/Sheviantos1/Devops-Project/tree/main/PROJECT%209)) | Deployed a 3-tier WordPress stack on AWS with dynamic storage provisioning using LVM. Integrated Apache2, MySQL, and storage monitoring to simulate enterprise deployment. |
+| 🌐 [AWS Networking Implementation (VPC Project)](https://github.com/Sheviantos1/Devops-Project/tree/main/PROJECT%2014) | Designed and deployed a fully customized AWS VPC with public/private subnets, NAT Gateway, Internet Gateway, custom route tables, and security groups. A foundational cloud networking project. |
 
 
 ## 💡 Currently Learning
@@ -70,7 +73,7 @@ I'm an experienced Technical Support Specialist actively transitioning into the 
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/Ademoye-Sheriff)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ademoye-sheriff-04968b241?)
 - 🐙 [GitHub](https://github.com/Sheviantos1)
 - ✉️ Email: s.ademoye@yahoo.com  
 - 🌐 Portfolio: _Coming Soon_
